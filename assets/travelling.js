@@ -215,6 +215,7 @@ function travelling(){
     url[211]="https://www.3328bk.cn/";
     url[212]="https://jin-yuhan.github.io/";
     url[213]="https://www.cn2333.cn/";
+    url[214]="https://blog.fachep.com/";
 
 
     if (document.referrer) {
