@@ -297,6 +297,7 @@
 | 212     | 顶栏      | Jin Yuhan's Blog    | https://jin-yuhan.github.io/     |
 | 213     | 顶栏      | 闲梦江南            | https://www.cn2333.cn/           |
 | 214     | 顶栏      | Fachep's Blog       | https://blog.fachep.com/         |
+| 215     | 顶栏      | Lin's Blog          | https://linzeyin.github.io/      |
 
 ---
 
